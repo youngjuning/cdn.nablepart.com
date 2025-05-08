@@ -77,9 +77,6 @@ const category_infos = {
 		"cnName": "连一连游戏",
 		"icon": "connect.png"
 	}
-
-
-
 	]
 }
 
@@ -87,7 +84,7 @@ const showAd = false;
 
 const websiteName = "FunGame";
 
-const ids = ["000031"]
+const ids = ["000016", "000031", "000032", "000057", "000177", ]
 
 ///最多5个
 const games_infos = {
